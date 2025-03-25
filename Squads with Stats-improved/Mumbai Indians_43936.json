@@ -1,0 +1,2850 @@
+{
+    "player": [
+        {
+            "id": "576",
+            "name": "Rohit Sharma",
+            "role": "Batter",
+            "imageId": 352478,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 34102,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 11156,
+                "BF": 8336,
+                "Bat_SR": 133.83,
+                "Dismissals_bat": 363,
+                "Not_out": 50,
+                "MatchesBatted": 413,
+                "Highest_Score": {
+                    "Score": 121,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 27.01,
+                "Thirties": 71,
+                "Fifties": 74,
+                "Hundreds": 7,
+                "Fours": 1000,
+                "Sixes": 487,
+                "Ducks": 43
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 59,
+                "Maidens": 0,
+                "Wickets": 29,
+                "BowledorLBW": null,
+                "Balls": 635,
+                "Overs": "105.5",
+                "Runs_conceded": 830,
+                "Bowling_Economy": 7.84,
+                "Bowl_SR": 21.9,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "6",
+                    "Overs": "2.0"
+                },
+                "Bowl_Average": 28.62,
+                "Three_Wicket_haul": 2,
+                "Four_Wicket_haul": 1,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 166,
+                "Catches": 166,
+                "Three_Catches": 7,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 166,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "13169",
+            "name": "Tim David",
+            "role": "Batter",
+            "imageId": 244810,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 892749,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 4379,
+                "BF": 2691,
+                "Bat_SR": 162.73,
+                "Dismissals_bat": 140,
+                "Not_out": 60,
+                "MatchesBatted": 200,
+                "Highest_Score": {
+                    "Score": 92,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 21.9,
+                "Thirties": 41,
+                "Fifties": 15,
+                "Hundreds": 0,
+                "Fours": 308,
+                "Sixes": 271,
+                "Ducks": 24
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 54,
+                "Maidens": 1,
+                "Wickets": 15,
+                "BowledorLBW": null,
+                "Balls": 600,
+                "Overs": "100.0",
+                "Runs_conceded": 887,
+                "Bowling_Economy": 8.87,
+                "Bowl_SR": 40.0,
+                "Best_Figures": {
+                    "Wickets": "1",
+                    "Runs": "26",
+                    "Overs": "3.0"
+                },
+                "Bowl_Average": 59.13,
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 124,
+                "Catches": 124,
+                "Three_Catches": 4,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 124,
+                "Most_Dismissals": {
+                    "Wickets": 5,
+                    "Catches": {
+                        "Fielding": 5,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "7773",
+            "name": "Jason Behrendorff",
+            "role": "Bowler",
+            "ESPN ID": 272477,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 151,
+                "BF": 148,
+                "Bat_SR": 102.03,
+                "Dismissals_bat": 12,
+                "Not_out": 21,
+                "MatchesBatted": 33,
+                "Highest_Score": {
+                    "Score": 26,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 4.58,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 7,
+                "Sixes": 5,
+                "Ducks": 121
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 146,
+                "Maidens": 5,
+                "Wickets": 179,
+                "BowledorLBW": null,
+                "Balls": 3157,
+                "Overs": "526.1",
+                "Runs_conceded": 3971,
+                "Bowling_Economy": 7.55,
+                "Bowl_SR": 17.64,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "22",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 22.18,
+                "Three_Wicket_haul": 12,
+                "Four_Wicket_haul": 3,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 48,
+                "Catches": 48,
+                "Three_Catches": 1,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 48,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "15067",
+            "name": "Dilshan Madhushanka",
+            "role": "Bowler",
+            "ESPN ID": 793007,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 21,
+                "BF": 40,
+                "Bat_SR": 52.5,
+                "Dismissals_bat": 5,
+                "Not_out": 3,
+                "MatchesBatted": 8,
+                "Highest_Score": {
+                    "Score": 12,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 2.62,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 1,
+                "Sixes": 1,
+                "Ducks": 29
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 33,
+                "Maidens": 0,
+                "Wickets": 31,
+                "BowledorLBW": null,
+                "Balls": 628,
+                "Overs": "104.4",
+                "Runs_conceded": 959,
+                "Bowling_Economy": 9.16,
+                "Bowl_SR": 20.26,
+                "Best_Figures": {
+                    "Wickets": 3,
+                    "Runs": 24,
+                    "Overs": 4.0
+                },
+                "Bowl_Average": 30.94,
+                "Three_Wicket_haul": 1,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 6,
+                "Catches": 6,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 6,
+                "Most_Dismissals": {
+                    "Wickets": 1,
+                    "Catches": {
+                        "Fielding": 1,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "11893",
+            "name": "Vishnu Vinod",
+            "role": "WK-Batter",
+            "ESPN ID": 732293,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 1591,
+                "BF": 1115,
+                "Bat_SR": 142.69,
+                "Dismissals_bat": 46,
+                "Not_out": 11,
+                "MatchesBatted": 57,
+                "Highest_Score": {
+                    "Score": 109,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 27.91,
+                "Thirties": 16,
+                "Fifties": 8,
+                "Hundreds": 1,
+                "Fours": 142,
+                "Sixes": 80,
+                "Ducks": 5
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 2,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 19,
+                "Overs": "3.1",
+                "Runs_conceded": 24,
+                "Bowling_Economy": 7.58,
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 29,
+                "Catches": 22,
+                "Three_Catches": 0,
+                "Stumpings": 7,
+                "Wicketkeeper_catch": 4,
+                "Field_Catches": 18,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 0,
+                        "Wicketkeeper": 1
+                    },
+                    "Stumpings": 2
+                }
+            }
+        },
+        {
+            "id": "13915",
+            "name": "Nehal Wadhera",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1151273,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 416,
+                "BF": 274,
+                "Bat_SR": 151.82,
+                "Dismissals_bat": 12,
+                "Not_out": 4,
+                "MatchesBatted": 16,
+                "Highest_Score": {
+                    "Score": 64,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 26.0,
+                "Thirties": 2,
+                "Fifties": 4,
+                "Hundreds": 0,
+                "Fours": 37,
+                "Sixes": 22,
+                "Ducks": 6
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 0,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 0,
+                "Overs": "0.0",
+                "Runs_conceded": 0,
+                "Bowling_Economy": "NA",
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 4,
+                "Catches": 4,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 4,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "20538",
+            "name": "Dewald Brevis",
+            "role": "Batter",
+            "imageId": 226302,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1070665,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 1303,
+                "BF": 920,
+                "Bat_SR": 141.63,
+                "Dismissals_bat": 52,
+                "Not_out": 4,
+                "MatchesBatted": 56,
+                "Highest_Score": {
+                    "Score": 162,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 23.27,
+                "Thirties": 12,
+                "Fifties": 4,
+                "Hundreds": 1,
+                "Fours": 88,
+                "Sixes": 89,
+                "Ducks": 8
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 19,
+                "Maidens": 0,
+                "Wickets": 15,
+                "BowledorLBW": null,
+                "Balls": 273,
+                "Overs": "45.3",
+                "Runs_conceded": 331,
+                "Bowling_Economy": 7.27,
+                "Bowl_SR": 18.2,
+                "Best_Figures": {
+                    "Wickets": "2",
+                    "Runs": "33",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 22.07,
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 27,
+                "Catches": 27,
+                "Three_Catches": 1,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 27,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "7915",
+            "name": "Suryakumar Yadav",
+            "role": "Batter",
+            "imageId": 352481,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 446507,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 6969,
+                "BF": 4582,
+                "Bat_SR": 152.1,
+                "Dismissals_bat": 196,
+                "Not_out": 51,
+                "MatchesBatted": 247,
+                "Highest_Score": {
+                    "Score": 117,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 28.21,
+                "Thirties": 45,
+                "Fifties": 46,
+                "Hundreds": 5,
+                "Fours": 697,
+                "Sixes": 294,
+                "Ducks": 41
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 10,
+                "Maidens": 0,
+                "Wickets": 6,
+                "BowledorLBW": null,
+                "Balls": 132,
+                "Overs": "22.0",
+                "Runs_conceded": 140,
+                "Bowling_Economy": 6.36,
+                "Bowl_SR": 22.0,
+                "Best_Figures": {
+                    "Wickets": "2",
+                    "Runs": "11",
+                    "Overs": "3.0"
+                },
+                "Bowl_Average": 23.33,
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 136,
+                "Catches": 136,
+                "Three_Catches": 4,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 136,
+                "Most_Dismissals": {
+                    "Wickets": 4,
+                    "Catches": {
+                        "Fielding": 4,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "14504",
+            "name": "Tilak Varma",
+            "role": "Batter",
+            "imageId": 226525,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1170265,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 2042,
+                "BF": 1437,
+                "Bat_SR": 142.1,
+                "Dismissals_bat": 51,
+                "Not_out": 17,
+                "MatchesBatted": 68,
+                "Highest_Score": {
+                    "Score": 121,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 30.03,
+                "Thirties": 18,
+                "Fifties": 13,
+                "Hundreds": 1,
+                "Fours": 162,
+                "Sixes": 97,
+                "Ducks": 7
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 17,
+                "Maidens": 0,
+                "Wickets": 6,
+                "BowledorLBW": null,
+                "Balls": 160,
+                "Overs": "26.4",
+                "Runs_conceded": 190,
+                "Bowling_Economy": 7.12,
+                "Bowl_SR": 26.67,
+                "Best_Figures": {
+                    "Wickets": "1",
+                    "Runs": "14",
+                    "Overs": "3.0"
+                },
+                "Bowl_Average": 31.67,
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 33,
+                "Catches": 33,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 33,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "36139",
+            "name": "Naman Dhir",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1287032,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 39,
+                "BF": 28,
+                "Bat_SR": 139.29,
+                "Dismissals_bat": 4,
+                "Not_out": 0,
+                "MatchesBatted": 4,
+                "Highest_Score": {
+                    "Score": 17,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 9.75,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 1,
+                "Sixes": 3,
+                "Ducks": 1
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 0,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 0,
+                "Overs": "0.0",
+                "Runs_conceded": 0,
+                "Bowling_Economy": "NA",
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 2,
+                "Catches": 2,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 2,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "14408",
+            "name": "Shivalik Sharma",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1167965,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 114,
+                "BF": 85,
+                "Bat_SR": 134.12,
+                "Dismissals_bat": 6,
+                "Not_out": 2,
+                "MatchesBatted": 8,
+                "Highest_Score": {
+                    "Score": 46,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 14.25,
+                "Thirties": 2,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 5,
+                "Sixes": 4,
+                "Ducks": 3
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 0,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 0,
+                "Overs": "0.0",
+                "Runs_conceded": 0,
+                "Bowling_Economy": "NA",
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 4,
+                "Catches": 4,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 4,
+                "Most_Dismissals": {
+                    "Wickets": 1,
+                    "Catches": {
+                        "Fielding": 1,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "9647",
+            "name": "Hardik Pandya",
+            "captain": true,
+            "role": "Batting Allrounder",
+            "imageId": 352482,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 625371,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 4425,
+                "BF": 3183,
+                "Bat_SR": 139.02,
+                "Dismissals_bat": 150,
+                "Not_out": 62,
+                "MatchesBatted": 212,
+                "Highest_Score": {
+                    "Score": 91,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 20.87,
+                "Thirties": 37,
+                "Fifties": 17,
+                "Hundreds": 0,
+                "Fours": 321,
+                "Sixes": 229,
+                "Ducks": 40
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 190,
+                "Maidens": 4,
+                "Wickets": 152,
+                "BowledorLBW": null,
+                "Balls": 3175,
+                "Overs": "529.1",
+                "Runs_conceded": 4309,
+                "Bowling_Economy": 8.14,
+                "Bowl_SR": 20.89,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "38",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 28.35,
+                "Three_Wicket_haul": 11,
+                "Four_Wicket_haul": 3,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 120,
+                "Catches": 120,
+                "Three_Catches": 2,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 120,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "13496",
+            "name": "Shams Mulani",
+            "role": "Batting Allrounder",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1131607,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 186,
+                "BF": 163,
+                "Bat_SR": 114.11,
+                "Dismissals_bat": 13,
+                "Not_out": 7,
+                "MatchesBatted": 20,
+                "Highest_Score": {
+                    "Score": 73,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 9.3,
+                "Thirties": 0,
+                "Fifties": 1,
+                "Hundreds": 0,
+                "Fours": 19,
+                "Sixes": 3,
+                "Ducks": 28
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 42,
+                "Maidens": 3,
+                "Wickets": 52,
+                "BowledorLBW": null,
+                "Balls": 936,
+                "Overs": "156.0",
+                "Runs_conceded": 1023,
+                "Bowling_Economy": 6.56,
+                "Bowl_SR": 18.0,
+                "Best_Figures": {
+                    "Wickets": "3",
+                    "Runs": "26",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 19.67,
+                "Three_Wicket_haul": 4,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 16,
+                "Catches": 16,
+                "Three_Catches": 1,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 16,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "9746",
+            "name": "Shreyas Gopal",
+            "role": "Bowling Allrounder",
+            "imageId": 226505,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 344580,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 471,
+                "BF": 395,
+                "Bat_SR": 119.24,
+                "Dismissals_bat": 28,
+                "Not_out": 11,
+                "MatchesBatted": 39,
+                "Highest_Score": {
+                    "Score": 48,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 12.08,
+                "Thirties": 3,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 47,
+                "Sixes": 8,
+                "Ducks": 62
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 91,
+                "Maidens": 4,
+                "Wickets": 107,
+                "BowledorLBW": null,
+                "Balls": 1732,
+                "Overs": "288.4",
+                "Runs_conceded": 2181,
+                "Bowling_Economy": 7.56,
+                "Bowl_SR": 16.19,
+                "Best_Figures": {
+                    "Wickets": "5",
+                    "Runs": "11",
+                    "Overs": "3.4"
+                },
+                "Bowl_Average": 20.38,
+                "Three_Wicket_haul": 6,
+                "Four_Wicket_haul": 4,
+                "Five_Wicket_haul": 2
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 24,
+                "Catches": 24,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 24,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "13646",
+            "name": "Romario Shepherd",
+            "role": "Bowling Allrounder",
+            "imageId": 226370,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 677077,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 1006,
+                "BF": 681,
+                "Bat_SR": 147.72,
+                "Dismissals_bat": 47,
+                "Not_out": 28,
+                "MatchesBatted": 75,
+                "Highest_Score": {
+                    "Score": 72,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 13.41,
+                "Thirties": 10,
+                "Fifties": 2,
+                "Hundreds": 0,
+                "Fours": 58,
+                "Sixes": 75,
+                "Ducks": 47
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 105,
+                "Maidens": 4,
+                "Wickets": 125,
+                "BowledorLBW": null,
+                "Balls": 1936,
+                "Overs": "322.4",
+                "Runs_conceded": 2900,
+                "Bowling_Economy": 8.99,
+                "Bowl_SR": 15.49,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "13",
+                    "Overs": "2.4"
+                },
+                "Bowl_Average": 23.2,
+                "Three_Wicket_haul": 15,
+                "Four_Wicket_haul": 2,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 31,
+                "Catches": 31,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 31,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "14190",
+            "name": "Kumar Kartikeya",
+            "role": "Bowling Allrounder",
+            "imageId": 327479,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm wrist-spin",
+            "ESPN ID": 1159843,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 18,
+                "BF": 20,
+                "Bat_SR": 90.0,
+                "Dismissals_bat": 3,
+                "Not_out": 3,
+                "MatchesBatted": 6,
+                "Highest_Score": {
+                    "Score": 6,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 3.0,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 2,
+                "Sixes": 0,
+                "Ducks": 27
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 31,
+                "Maidens": 1,
+                "Wickets": 32,
+                "BowledorLBW": null,
+                "Balls": 630,
+                "Overs": "105.0",
+                "Runs_conceded": 737,
+                "Bowling_Economy": 7.02,
+                "Bowl_SR": 19.69,
+                "Best_Figures": {
+                    "Wickets": 3,
+                    "Runs": 10,
+                    "Overs": 4
+                },
+                "Bowl_Average": 23.03,
+                "Three_Wicket_haul": 2,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 3,
+                "Catches": 3,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 3,
+                "Most_Dismissals": {
+                    "Wickets": 1,
+                    "Catches": {
+                        "Fielding": 1,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "3007",
+            "name": "Mohammad Nabi",
+            "role": "Bowling Allrounder",
+            "imageId": 352437,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 25913,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 5776,
+                "BF": 4215,
+                "Bat_SR": 137.03,
+                "Dismissals_bat": 266,
+                "Not_out": 64,
+                "MatchesBatted": 330,
+                "Highest_Score": {
+                    "Score": 89,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 17.5,
+                "Thirties": 53,
+                "Fifties": 17,
+                "Hundreds": 0,
+                "Fours": 398,
+                "Sixes": 284,
+                "Ducks": 75
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 371,
+                "Maidens": 9,
+                "Wickets": 345,
+                "BowledorLBW": null,
+                "Balls": 7240,
+                "Overs": "1206.4",
+                "Runs_conceded": 8446,
+                "Bowling_Economy": 7.0,
+                "Bowl_SR": 20.99,
+                "Best_Figures": {
+                    "Wickets": "5",
+                    "Runs": "15",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 24.48,
+                "Three_Wicket_haul": 20,
+                "Four_Wicket_haul": 7,
+                "Five_Wicket_haul": 1
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 179,
+                "Catches": 179,
+                "Three_Catches": 7,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 179,
+                "Most_Dismissals": {
+                    "Wickets": 5,
+                    "Catches": {
+                        "Fielding": 5,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "13747",
+            "name": "Arjun Tendulkar",
+            "role": "Bowling Allrounder",
+            "imageId": 154048,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 1148776,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 98,
+                "BF": 83,
+                "Bat_SR": 118.07,
+                "Dismissals_bat": 8,
+                "Not_out": 1,
+                "MatchesBatted": 9,
+                "Highest_Score": {
+                    "Score": 47,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 10.89,
+                "Thirties": 1,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 3,
+                "Sixes": 7,
+                "Ducks": 13
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 20,
+                "Maidens": 1,
+                "Wickets": 26,
+                "BowledorLBW": null,
+                "Balls": 386,
+                "Overs": "64.2",
+                "Runs_conceded": 552,
+                "Bowling_Economy": 8.58,
+                "Bowl_SR": 14.85,
+                "Best_Figures": {
+                    "Wickets": 4,
+                    "Runs": 10,
+                    "Overs": 4.0
+                },
+                "Bowl_Average": 21.23,
+                "Three_Wicket_haul": 1,
+                "Four_Wicket_haul": 1,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 1,
+                "Catches": 1,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 1,
+                "Most_Dismissals": {
+                    "Wickets": 1,
+                    "Catches": {
+                        "Fielding": 1,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "10276",
+            "name": "Ishan Kishan",
+            "role": "WK-Batter",
+            "imageId": 352492,
+            "battingStyle": "Left-hand bat",
+            "ESPN ID": 720471,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 4435,
+                "BF": 3382,
+                "Bat_SR": 131.14,
+                "Dismissals_bat": 154,
+                "Not_out": 10,
+                "MatchesBatted": 164,
+                "Highest_Score": {
+                    "Score": 113,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 27.04,
+                "Thirties": 31,
+                "Fifties": 26,
+                "Hundreds": 3,
+                "Fours": 433,
+                "Sixes": 196,
+                "Ducks": 20
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 0,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 0,
+                "Overs": "0.0",
+                "Runs_conceded": 0,
+                "Bowling_Economy": "NA",
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 105,
+                "Catches": 91,
+                "Three_Catches": 7,
+                "Stumpings": 14,
+                "Wicketkeeper_catch": 78,
+                "Field_Catches": 13,
+                "Most_Dismissals": {
+                    "Wickets": 4,
+                    "Catches": {
+                        "Fielding": 0,
+                        "Wicketkeeper": 4
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "12088",
+            "name": "Harvik Desai",
+            "role": "WK-Batter",
+            "imageId": 169799,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 1070195,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 691,
+                "BF": 515,
+                "Bat_SR": 134.17,
+                "Dismissals_bat": 23,
+                "Not_out": 4,
+                "MatchesBatted": 27,
+                "Highest_Score": {
+                    "Score": 104,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 25.59,
+                "Thirties": 2,
+                "Fifties": 4,
+                "Hundreds": 1,
+                "Fours": 90,
+                "Sixes": 22,
+                "Ducks": 2
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 0,
+                "Maidens": 0,
+                "Wickets": 0,
+                "BowledorLBW": null,
+                "Balls": 0,
+                "Overs": "0.0",
+                "Runs_conceded": 0,
+                "Bowling_Economy": "NA",
+                "Bowl_SR": "NA",
+                "Best_Figures": {
+                    "Wickets": "-",
+                    "Runs": "-",
+                    "Overs": "-"
+                },
+                "Bowl_Average": "NA",
+                "Three_Wicket_haul": 0,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 21,
+                "Catches": 18,
+                "Three_Catches": 1,
+                "Stumpings": 3,
+                "Wicketkeeper_catch": 17,
+                "Field_Catches": 1,
+                "Most_Dismissals": {
+                    "Wickets": 4,
+                    "Catches": {
+                        "Fielding": 0,
+                        "Wicketkeeper": 3
+                    },
+                    "Stumpings": 1
+                }
+            }
+        },
+        {
+            "id": "466",
+            "name": "Piyush Chawla",
+            "role": "Bowler",
+            "imageId": 152613,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 32966,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 1550,
+                "BF": 1252,
+                "Bat_SR": 123.8,
+                "Dismissals_bat": 102,
+                "Not_out": 53,
+                "MatchesBatted": 155,
+                "Highest_Score": {
+                    "Score": 45,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 10.0,
+                "Thirties": 9,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 134,
+                "Sixes": 58,
+                "Ducks": 157
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 283,
+                "Maidens": 10,
+                "Wickets": 302,
+                "BowledorLBW": null,
+                "Balls": 5952,
+                "Overs": "992.0",
+                "Runs_conceded": 7424,
+                "Bowling_Economy": 7.48,
+                "Bowl_SR": 19.71,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "17",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 24.58,
+                "Three_Wicket_haul": 24,
+                "Four_Wicket_haul": 3,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 71,
+                "Catches": 71,
+                "Three_Catches": 1,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 71,
+                "Most_Dismissals": {
+                    "Wickets": 3,
+                    "Catches": {
+                        "Fielding": 3,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "14598",
+            "name": "Anshul Kamboj",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1175428,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 22,
+                "BF": 24,
+                "Bat_SR": 91.67,
+                "Dismissals_bat": 1,
+                "Not_out": 4,
+                "MatchesBatted": 5,
+                "Highest_Score": {
+                    "Score": 8,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 4.4,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 2,
+                "Sixes": 0,
+                "Ducks": 4
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 9,
+                "Maidens": 0,
+                "Wickets": 11,
+                "BowledorLBW": null,
+                "Balls": 144,
+                "Overs": "24.0",
+                "Runs_conceded": 166,
+                "Bowling_Economy": 6.92,
+                "Bowl_SR": 13.09,
+                "Best_Figures": {
+                    "Wickets": 3,
+                    "Runs": 25,
+                    "Overs": 4.0
+                },
+                "Bowl_Average": 15.09,
+                "Three_Wicket_haul": 2,
+                "Four_Wicket_haul": 0,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 2,
+                "Catches": 2,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 2,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "13320",
+            "name": "Gerald Coetzee",
+            "role": "Bowler",
+            "imageId": 351631,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast",
+            "ESPN ID": 596010,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 193,
+                "BF": 160,
+                "Bat_SR": 120.62,
+                "Dismissals_bat": 23,
+                "Not_out": 4,
+                "MatchesBatted": 27,
+                "Highest_Score": {
+                    "Score": 37,
+                    "Dismissal Status": "Out"
+                },
+                "Bat_Average": 7.15,
+                "Thirties": 1,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 11,
+                "Sixes": 12,
+                "Ducks": 21
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 40,
+                "Maidens": 4,
+                "Wickets": 60,
+                "BowledorLBW": null,
+                "Balls": 848,
+                "Overs": "141.2",
+                "Runs_conceded": 1143,
+                "Bowling_Economy": 8.09,
+                "Bowl_SR": 14.13,
+                "Best_Figures": {
+                    "Wickets": "4",
+                    "Runs": "19",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 19.05,
+                "Three_Wicket_haul": 3,
+                "Four_Wicket_haul": 4,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 12,
+                "Catches": 12,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 12,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "9311",
+            "name": "Jasprit Bumrah",
+            "role": "Bowler",
+            "imageId": 352488,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast",
+            "ESPN ID": 625383,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 90,
+                "BF": 105,
+                "Bat_SR": 85.71,
+                "Dismissals_bat": 12,
+                "Not_out": 26,
+                "MatchesBatted": 38,
+                "Highest_Score": {
+                    "Score": 16,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 2.37,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 6,
+                "Sixes": 3,
+                "Ducks": 193
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 211,
+                "Maidens": 20,
+                "Wickets": 260,
+                "BowledorLBW": null,
+                "Balls": 4746,
+                "Overs": "791.0",
+                "Runs_conceded": 5555,
+                "Bowling_Economy": 7.02,
+                "Bowl_SR": 18.25,
+                "Best_Figures": {
+                    "Wickets": "5",
+                    "Runs": "10",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 21.37,
+                "Three_Wicket_haul": 28,
+                "Four_Wicket_haul": 2,
+                "Five_Wicket_haul": 1
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 30,
+                "Catches": 30,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 30,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "15727",
+            "name": "Akash Madhwal",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1206039,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 6,
+                "BF": 15,
+                "Bat_SR": 40.0,
+                "Dismissals_bat": 2,
+                "Not_out": 2,
+                "MatchesBatted": 4,
+                "Highest_Score": {
+                    "Score": 5,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 1.5,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 0,
+                "Sixes": 0,
+                "Ducks": 34
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 36,
+                "Maidens": 1,
+                "Wickets": 41,
+                "BowledorLBW": null,
+                "Balls": 708,
+                "Overs": "118.0",
+                "Runs_conceded": 977,
+                "Bowling_Economy": 8.28,
+                "Bowl_SR": 17.27,
+                "Best_Figures": {
+                    "Wickets": 5,
+                    "Runs": 5,
+                    "Overs": 3.3
+                },
+                "Bowl_Average": 23.83,
+                "Three_Wicket_haul": 3,
+                "Four_Wicket_haul": 2,
+                "Five_Wicket_haul": 1
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 4,
+                "Catches": 4,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 4,
+                "Most_Dismissals": {
+                    "Wickets": 1,
+                    "Catches": {
+                        "Fielding": 1,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "18509",
+            "name": "Nuwan Thushara",
+            "role": "Bowler",
+            "imageId": 226338,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 955235,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 38,
+                "BF": 45,
+                "Bat_SR": 84.44,
+                "Dismissals_bat": 9,
+                "Not_out": 17,
+                "MatchesBatted": 26,
+                "Highest_Score": {
+                    "Score": 7,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 1.46,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 2,
+                "Sixes": 2,
+                "Ducks": 75
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 86,
+                "Maidens": 2,
+                "Wickets": 120,
+                "BowledorLBW": null,
+                "Balls": 1649,
+                "Overs": "274.5",
+                "Runs_conceded": 2164,
+                "Bowling_Economy": 7.87,
+                "Bowl_SR": 13.74,
+                "Best_Figures": {
+                    "Wickets": "5",
+                    "Runs": "13",
+                    "Overs": "3.5"
+                },
+                "Bowl_Average": 18.03,
+                "Three_Wicket_haul": 10,
+                "Four_Wicket_haul": 3,
+                "Five_Wicket_haul": 2
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 12,
+                "Catches": 12,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 12,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "23346",
+            "name": "Kwena Maphaka",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm medium",
+            "ESPN ID": 1294342,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 1,
+                "BF": 2,
+                "Bat_SR": 50.0,
+                "Dismissals_bat": 0,
+                "Not_out": 1,
+                "MatchesBatted": 1,
+                "Highest_Score": {
+                    "Score": 1,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 1.0,
+                "Thirties": 0,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 0,
+                "Sixes": 0,
+                "Ducks": 8
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 9,
+                "Maidens": 1,
+                "Wickets": 13,
+                "BowledorLBW": null,
+                "Balls": 192,
+                "Overs": "32.0",
+                "Runs_conceded": 215,
+                "Bowling_Economy": 6.72,
+                "Bowl_SR": 14.77,
+                "Best_Figures": {
+                    "Wickets": 4,
+                    "Runs": 18,
+                    "Overs": 4.0
+                },
+                "Bowl_Average": 16.54,
+                "Three_Wicket_haul": 1,
+                "Four_Wicket_haul": 1,
+                "Five_Wicket_haul": 0
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 0,
+                "Catches": 0,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 0,
+                "Most_Dismissals": {
+                    "Wickets": 0,
+                    "Catches": {
+                        "Fielding": 0,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        },
+        {
+            "id": "9821",
+            "name": "Luke Wood",
+            "role": "Bowler",
+            "imageId": 158044,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 573170,
+            "Batting Career Stats": {
+                "Keys": [
+                    "Bat1",
+                    "Runs",
+                    "BF",
+                    "SR",
+                    "4s",
+                    "6s",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Runs": 321,
+                "BF": 289,
+                "Bat_SR": 111.07,
+                "Dismissals_bat": 32,
+                "Not_out": 25,
+                "MatchesBatted": 57,
+                "Highest_Score": {
+                    "Score": 33,
+                    "Dismissal Status": "Not Out"
+                },
+                "Bat_Average": 5.63,
+                "Thirties": 2,
+                "Fifties": 0,
+                "Hundreds": 0,
+                "Fours": 18,
+                "Sixes": 10,
+                "Ducks": 98
+            },
+            "Bowling Career Stats": {
+                "Keys": [
+                    "Overs",
+                    "Mdns",
+                    "Runs",
+                    "Wkts",
+                    "Econ",
+                    "Ave",
+                    "SR",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Matches_Bowled": 139,
+                "Maidens": 3,
+                "Wickets": 147,
+                "BowledorLBW": null,
+                "Balls": 2769,
+                "Overs": "461.3",
+                "Runs_conceded": 3804,
+                "Bowling_Economy": 8.24,
+                "Bowl_SR": 18.84,
+                "Best_Figures": {
+                    "Wickets": "5",
+                    "Runs": "50",
+                    "Overs": "4.0"
+                },
+                "Bowl_Average": 25.88,
+                "Three_Wicket_haul": 15,
+                "Four_Wicket_haul": 1,
+                "Five_Wicket_haul": 1
+            },
+            "Fielding Career Stats": {
+                "Keys": [
+                    "Dis",
+                    "Ct",
+                    "St",
+                    "Ct Wk",
+                    "Ct Fi",
+                    "Opposition",
+                    "Ground",
+                    "Start Date"
+                ],
+                "end_date": "21-03-2024",
+                "Run_out_direct": null,
+                "Run_out_indirect": null,
+                "Dismissals": 44,
+                "Catches": 44,
+                "Three_Catches": 0,
+                "Stumpings": 0,
+                "Wicketkeeper_catch": 0,
+                "Field_Catches": 44,
+                "Most_Dismissals": {
+                    "Wickets": 2,
+                    "Catches": {
+                        "Fielding": 2,
+                        "Wicketkeeper": 0
+                    },
+                    "Stumpings": 0
+                }
+            }
+        }
+    ]
+}

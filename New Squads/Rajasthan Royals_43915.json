@@ -1,0 +1,208 @@
+{
+    "player": [
+        {
+            "id": "19328",
+            "name": "Shubham Dubey",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1252585
+        },
+        {
+            "id": "9789",
+            "name": "Shimron Hetmyer",
+            "role": "Batter",
+            "imageId": 171232,
+            "battingStyle": "Left-hand bat",
+            "ESPN ID": 670025
+        },
+        {
+            "id": "11445",
+            "name": "Rovman Powell",
+            "role": "Batter",
+            "imageId": 244832,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 820351
+        },
+        {
+            "id": "13940",
+            "name": "Yashasvi Jaiswal",
+            "role": "Batter",
+            "imageId": 226279,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1151278
+        },
+        {
+            "id": "12305",
+            "name": "Riyan Parag",
+            "role": "Batting Allrounder",
+            "imageId": 156160,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1079434
+        },
+        {
+            "id": "13216",
+            "name": "Tanush Kotian",
+            "role": "Batting Allrounder",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1125960
+        },
+        {
+            "id": "2258",
+            "name": "Jos Buttler",
+            "role": "WK-Batter",
+            "ESPN ID": 308967
+        },
+        {
+            "id": "10551",
+            "name": "Prasidh Krishna",
+            "role": "Bowler",
+            "ESPN ID": 917159
+        },
+        {
+            "id": "8642",
+            "name": "Adam Zampa",
+            "role": "Bowler",
+            "ESPN ID": 379504
+        },
+        {
+            "id": "1593",
+            "name": "Ravichandran Ashwin",
+            "role": "Bowling Allrounder",
+            "imageId": 352484,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 26421
+        },
+        {
+            "id": "14691",
+            "name": "Dhruv Jurel",
+            "role": "WK-Batter",
+            "imageId": 226551,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 1175488
+        },
+        {
+            "id": "14798",
+            "name": "Donovan Ferreira",
+            "role": "WK-Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 698315
+        },
+        {
+            "id": "32854",
+            "name": "Kunal Singh Rathore",
+            "role": "WK-Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "ESPN ID": 1339031
+        },
+        {
+            "id": "10033",
+            "name": "Tom Kohler-Cadmore",
+            "role": "WK-Batter",
+            "imageId": 226326,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 470633
+        },
+        {
+            "id": "8271",
+            "name": "Sanju Samson",
+            "captain": true,
+            "role": "WK-Batter",
+            "imageId": 226289,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 425943
+        },
+        {
+            "id": "9781",
+            "name": "Avesh Khan",
+            "role": "Bowler",
+            "imageId": 226438,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 694211
+        },
+        {
+            "id": "8117",
+            "name": "Trent Boult",
+            "role": "Bowler",
+            "imageId": 351612,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 277912
+        },
+        {
+            "id": "9715",
+            "name": "Navdeep Saini",
+            "role": "Bowler",
+            "imageId": 226400,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast",
+            "ESPN ID": 700167
+        },
+        {
+            "id": "8356",
+            "name": "Sandeep Sharma",
+            "role": "Bowler",
+            "imageId": 153909,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 438362
+        },
+        {
+            "id": "13630",
+            "name": "Nandre Burger",
+            "role": "Bowler",
+            "imageId": 537842,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 971349
+        },
+        {
+            "id": "7910",
+            "name": "Yuzvendra Chahal",
+            "role": "Bowler",
+            "imageId": 244981,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 430246
+        },
+        {
+            "id": "14336",
+            "name": "Kuldeep Sen",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1163695
+        },
+        {
+            "id": "15528",
+            "name": "Abid Mushtaq",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1201536
+        },
+        {
+            "id": "9720",
+            "name": "Keshav Maharaj",
+            "role": "Bowler",
+            "imageId": 537828,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 267724
+        }
+    ]
+}

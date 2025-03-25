@@ -1,0 +1,245 @@
+{
+    "player": [
+        {
+            "id": "11808",
+            "name": "Shubman Gill",
+            "captain": true,
+            "role": "Batter",
+            "imageId": 352479,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1070173
+        },
+        {
+            "id": "36454",
+            "name": "Robin Minz",
+            "role": "WK-Batter",
+            "ESPN ID": 1350762
+        },
+        {
+            "id": "14706",
+            "name": "Sushant Mishra",
+            "role": "Bowler",
+            "ESPN ID": 1175457
+        },
+        {
+            "id": "7909",
+            "name": "Mohammed Shami",
+            "role": "Bowler",
+            "ESPN ID": 481896
+        },
+        {
+            "id": "6349",
+            "name": "David Miller",
+            "role": "Batter",
+            "imageId": 351831,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 321777
+        },
+        {
+            "id": "13866",
+            "name": "Sai Sudharsan",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1151288
+        },
+        {
+            "id": "6326",
+            "name": "Kane Williamson",
+            "role": "Batter",
+            "imageId": 351812,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 277906
+        },
+        {
+            "id": "10499",
+            "name": "Abhinav Manohar",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 778963
+        },
+        {
+            "id": "10226",
+            "name": "Shahrukh Khan",
+            "role": "Batting Allrounder",
+            "imageId": 226465,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 719719
+        },
+        {
+            "id": "9693",
+            "name": "Rahul Tewatia",
+            "role": "Batting Allrounder",
+            "imageId": 196288,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 423838
+        },
+        {
+            "id": "8204",
+            "name": "Vijay Shankar",
+            "role": "Batting Allrounder",
+            "imageId": 170664,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium",
+            "ESPN ID": 477021
+        },
+        {
+            "id": "13214",
+            "name": "Azmatullah Omarzai",
+            "role": "Bowling Allrounder",
+            "imageId": 352438,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 819429
+        },
+        {
+            "id": "10738",
+            "name": "Rashid Khan",
+            "role": "Bowling Allrounder",
+            "imageId": 352439,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 793463
+        },
+        {
+            "id": "1465",
+            "name": "Wriddhiman Saha",
+            "role": "WK-Batter",
+            "imageId": 171058,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 279810
+        },
+        {
+            "id": "1649",
+            "name": "Matthew Wade",
+            "role": "WK-Batter",
+            "imageId": 244799,
+            "battingStyle": "Left-hand bat",
+            "ESPN ID": 230193
+        },
+        {
+            "id": "10520",
+            "name": "Sharath BR",
+            "role": "WK-Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 917231
+        },
+        {
+            "id": "13136",
+            "name": "Kartik Tyagi",
+            "role": "Bowler",
+            "imageId": 226311,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1122918
+        },
+        {
+            "id": "15452",
+            "name": "Noor Ahmad",
+            "role": "Bowler",
+            "imageId": 352443,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm wrist-spin",
+            "ESPN ID": 1182529
+        },
+        {
+            "id": "11595",
+            "name": "Ravisrinivasan Sai Kishore",
+            "role": "Bowler",
+            "imageId": 226507,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1048739
+        },
+        {
+            "id": "11128",
+            "name": "Joshua Little",
+            "role": "Bowler",
+            "imageId": 244649,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Left-arm fast",
+            "ESPN ID": 928067
+        },
+        {
+            "id": "13143",
+            "name": "Spencer Johnson",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 1123718
+        },
+        {
+            "id": "8181",
+            "name": "Mohit Sharma",
+            "role": "Bowler",
+            "imageId": 192642,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 537119
+        },
+        {
+            "id": "12779",
+            "name": "Darshan Nalkande",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1111917
+        },
+        {
+            "id": "8182",
+            "name": "Jayant Yadav",
+            "role": "Bowler",
+            "imageId": 226388,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 447587
+        },
+        {
+            "id": "1858",
+            "name": "Umesh Yadav",
+            "role": "Bowler",
+            "imageId": 332901,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast",
+            "ESPN ID": 376116
+        },
+        {
+            "id": "8944",
+            "name": "Sandeep Warrier",
+            "role": "Bowler",
+            "imageId": 226336,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium",
+            "ESPN ID": 592735
+        },
+        {
+            "id": "14596",
+            "name": "Manav Suthar",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1175426
+        },
+        {
+            "id": "22141",
+            "name": "Gurnoor Brar",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1287033
+        }
+    ]
+}

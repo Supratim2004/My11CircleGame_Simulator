@@ -1,0 +1,220 @@
+{
+    "player": [
+        {
+            "id": "1446",
+            "name": "Shikhar Dhawan",
+            "captain": true,
+            "role": "Batter",
+            "imageId": 170660,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 28235
+        },
+        {
+            "id": "10045",
+            "name": "Liam Livingstone",
+            "role": "Batting Allrounder",
+            "ESPN ID": 403902
+        },
+        {
+            "id": "9585",
+            "name": "Kagiso Rabada",
+            "role": "Bowler",
+            "ESPN ID": 550215
+        },
+        {
+            "id": "6322",
+            "name": "Harpreet Singh Bhatia",
+            "role": "Batter",
+            "imageId": 153367,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm medium",
+            "ESPN ID": 340854
+        },
+        {
+            "id": "2244",
+            "name": "Rilee Rossouw",
+            "role": "Batter",
+            "imageId": 244768,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 318845
+        },
+        {
+            "id": "41295",
+            "name": "Shivam Singh",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1380113
+        },
+        {
+            "id": "13914",
+            "name": "Atharva Taide",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1125958
+        },
+        {
+            "id": "13497",
+            "name": "Ashutosh Sharma",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 1131978
+        },
+        {
+            "id": "53496",
+            "name": "Vishwanath Singh",
+            "role": "Batter",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 1354639
+        },
+        {
+            "id": "9354",
+            "name": "Sikandar Raza",
+            "role": "Batting Allrounder",
+            "imageId": 244709,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm offbreak",
+            "ESPN ID": 299572
+        },
+        {
+            "id": "10919",
+            "name": "Shashank Singh",
+            "role": "Batting Allrounder",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium",
+            "ESPN ID": 377534
+        },
+        {
+            "id": "10420",
+            "name": "Sam Curran",
+            "role": "Bowling Allrounder",
+            "imageId": 351581,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 662973
+        },
+        {
+            "id": "8616",
+            "name": "Rishi Dhawan",
+            "role": "Bowling Allrounder",
+            "imageId": 151723,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 290727
+        },
+        {
+            "id": "6670",
+            "name": "Chris Woakes",
+            "role": "Bowling Allrounder",
+            "imageId": 351569,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 247235
+        },
+        {
+            "id": "12335",
+            "name": "Tanay Thyagarajan",
+            "role": "Bowling Allrounder",
+            "imageId": 174146,
+            "battingStyle": "Left-hand bat",
+            "ESPN ID": 1080008
+        },
+        {
+            "id": "14254",
+            "name": "Prabhsimran Singh",
+            "role": "WK-Batter",
+            "imageId": 226515,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 1161024
+        },
+        {
+            "id": "6507",
+            "name": "Jonny Bairstow",
+            "role": "WK-Batter",
+            "imageId": 351851,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm medium",
+            "ESPN ID": 297433
+        },
+        {
+            "id": "10214",
+            "name": "Jitesh Sharma",
+            "role": "WK-Batter",
+            "imageId": 226474,
+            "battingStyle": "Right-hand bat",
+            "ESPN ID": 721867
+        },
+        {
+            "id": "12087",
+            "name": "Rahul Chahar",
+            "role": "Bowler",
+            "imageId": 226225,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1064812
+        },
+        {
+            "id": "13977",
+            "name": "Vidhwath Kaverappa",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 1155262
+        },
+        {
+            "id": "8175",
+            "name": "Harshal Patel",
+            "role": "Bowler",
+            "imageId": 244974,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 390481
+        },
+        {
+            "id": "15480",
+            "name": "Nathan Ellis",
+            "role": "Bowler",
+            "imageId": 226248,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm fast-medium",
+            "ESPN ID": 826915
+        },
+        {
+            "id": "13217",
+            "name": "Arshdeep Singh",
+            "role": "Bowler",
+            "imageId": 244971,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm fast-medium",
+            "ESPN ID": 1125976
+        },
+        {
+            "id": "53478",
+            "name": "Prince Choudhary",
+            "role": "Bowler",
+            "imageId": 174146,
+            "battingStyle": "Right-hand bat",
+            "bowlingStyle": "Right-arm legbreak",
+            "ESPN ID": 1412827
+        },
+        {
+            "id": "14452",
+            "name": "Harpreet Brar",
+            "role": "Bowler",
+            "imageId": 226471,
+            "battingStyle": "Left-hand bat",
+            "bowlingStyle": "Left-arm orthodox",
+            "ESPN ID": 1168641
+        }
+    ]
+}

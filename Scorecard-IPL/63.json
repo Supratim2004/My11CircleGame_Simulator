@@ -1,0 +1,54 @@
+{
+    "scoreCard": [],
+    "matchHeader": {
+        "matchId": 91677,
+        "matchDescription": "63rd Match",
+        "matchFormat": "T20",
+        "matchType": "league",
+        "complete": false,
+        "domestic": false,
+        "matchStartTimestamp": 1715608800000,
+        "matchCompleteTimestamp": 1715620047865,
+        "dayNight": false,
+        "year": 2024,
+        "state": "Abandon",
+        "status": "Match abandoned without toss",
+        "tossResults": {
+            "tossWinnerName": "",
+            "decision": ""
+        },
+        "result": {
+            "resultType": "abandon",
+            "winningTeam": "",
+            "winByRuns": false,
+            "winByInnings": false
+        },
+        "revisedTarget": {
+            "reason": ""
+        },
+        "playersOfTheMatch": [],
+        "playersOfTheSeries": [],
+        "isMatchNotCovered": false,
+        "team1": {
+            "id": 971,
+            "name": "Gujarat Titans",
+            "playerDetails": [],
+            "shortName": "GT"
+        },
+        "team2": {
+            "id": 63,
+            "name": "Kolkata Knight Riders",
+            "playerDetails": [],
+            "shortName": "KKR"
+        },
+        "seriesDesc": "Indian Premier League 2024",
+        "seriesId": 7607,
+        "seriesName": "Indian Premier League 2024",
+        "alertType": "auto",
+        "livestreamEnabled": false
+    },
+    "isMatchComplete": false,
+    "status": "",
+    "videos": [],
+    "responseLastUpdated": 1731426857
+}

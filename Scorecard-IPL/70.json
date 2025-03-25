@@ -1,0 +1,55 @@
+{
+    "scoreCard": [],
+    "matchHeader": {
+        "matchId": 91717,
+        "matchDescription": "70th Match",
+        "matchFormat": "T20",
+        "matchType": "league",
+        "complete": false,
+        "domestic": false,
+        "matchStartTimestamp": 1716127200000,
+        "matchCompleteTimestamp": 1716139553028,
+        "dayNight": true,
+        "year": 2024,
+        "state": "Abandon",
+        "status": "Match abandoned due to rain (with toss)",
+        "tossResults": {
+            "tossWinnerId": 63,
+            "tossWinnerName": "Kolkata Knight Riders",
+            "decision": "Bowling"
+        },
+        "result": {
+            "resultType": "abandon",
+            "winningTeam": "",
+            "winByRuns": false,
+            "winByInnings": false
+        },
+        "revisedTarget": {
+            "reason": ""
+        },
+        "playersOfTheMatch": [],
+        "playersOfTheSeries": [],
+        "isMatchNotCovered": false,
+        "team1": {
+            "id": 64,
+            "name": "Rajasthan Royals",
+            "playerDetails": [],
+            "shortName": "RR"
+        },
+        "team2": {
+            "id": 63,
+            "name": "Kolkata Knight Riders",
+            "playerDetails": [],
+            "shortName": "KKR"
+        },
+        "seriesDesc": "Indian Premier League 2024",
+        "seriesId": 7607,
+        "seriesName": "Indian Premier League 2024",
+        "alertType": "auto",
+        "livestreamEnabled": false
+    },
+    "isMatchComplete": false,
+    "status": "",
+    "videos": [],
+    "responseLastUpdated": 1731426862
+}
